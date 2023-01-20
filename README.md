@@ -14,7 +14,5 @@ Este trabalho foi desenvolvido como projeto final em equipe, para ser apresentad
 
 **Python 3**
 
-
-## Autor
-| [<img src="https://user-images.githubusercontent.com/71519298/188052888-7d822b41-2950-4e4b-b6e7-0863dc9ef67d.jpg" width=115><br><sub>Alaim Costa</sub>](https://github.com/alaimcosta) |
-| :---: |
+## Autores
+Alaim de Jesus Leão Costa<br>Klauber Araujo Sousa<br>Manoel Malon Costa de Moura
